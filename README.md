@@ -1,7 +1,7 @@
 ## Welcome to my GitHub
 
 **About me:**  
-Computer Science undergraduate student with a strong interest in Android development.
+Computer Science undergraduate student with a strong interest in Android development and Security.
 
 **Courses and Certifications:**  
 - CS50x Introduction to Computer Science – Harvard
