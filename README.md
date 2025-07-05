@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to my GitHub
 
-<!--
-**gomesgabriell/gomesgabriell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**  
+Computer Science undergraduate student with an interest in **Android Development** and exploring **Malware Analysis**.
 
-Here are some ideas to get you started:
+**Education & Certifications:**  
+- CS50x Introduction to Computer Science – Harvard
+- Single Variable Calculus - MIT
+- Introduction to Algorithms – MIT
+- Associate Android Developer – Google *(in progress)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact:**  
+Feel free to reach out: monteirogomesgabriel@gmail.com
